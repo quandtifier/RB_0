@@ -52,7 +52,6 @@ namespace Rentalbase.DAL
                 new Invoice{ TenantID=2, AmountPaid=2900.00, DatePaid=DateTime.Parse("2001-06-03") },
                 new Invoice{ TenantID=2, AmountPaid=2900.00, DatePaid=DateTime.Parse("2001-07-03") },
                 new Invoice{ TenantID=2, AmountPaid=2900.00, DatePaid=DateTime.Parse("2001-05-01") },
-                new Invoice{ TenantID=2, AmountPaid=59.02, DatePaid=DateTime.Parse("2001-08-01"), WorkorderID=3},
                 new Invoice{ TenantID=3, AmountPaid=2300.00, DatePaid=DateTime.Parse("2015-05-01") },
                 new Invoice{ TenantID=3, AmountPaid=2300.00, DatePaid=DateTime.Parse("2015-06-01") },
 
